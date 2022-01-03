@@ -8,4 +8,4 @@
 let name = 'ingi';
 console.log(name);
 name = 'hello';
-console.log(name)
+console.log(name);
