@@ -2,11 +2,9 @@
 // added in ES 5
 // use this for Valina javascript
 'use strict';
-
 // 2. Variable
 // let (added in ES6)
 
-let name;
 let name = 'ingi';
 console.log(name);
 name = 'hello';
